@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "da3e638623560ed6a98426193d0a51a8"
+    "revision": "e13d2c72a5254091869c1d132a38a722"
   },
   {
     "url": "assets/css/0.styles.6299c255.css",
@@ -128,48 +128,48 @@ self.__precacheManifest = [
     "revision": "a0dbdb6150480aa1fdab984d03b4bf60"
   },
   {
-    "url": "assets/js/app.2db0f130.js",
-    "revision": "320a4a8ed63651c223781ce786d8a112"
+    "url": "assets/js/app.bbbd97ee.js",
+    "revision": "2d8c4188655662ad068837e4ce181b83"
   },
   {
     "url": "index.html",
-    "revision": "23b061d45ba3d2c0fa1b9744a0e42a84"
+    "revision": "179cfefb6c9812b24ddcaa96f6286b4f"
   },
   {
     "url": "index/html-css/css.html",
-    "revision": "dca9b2fae0c8afe5718bdcb85a26d3be"
+    "revision": "fe789254534613c7bd85b507b056dbb4"
   },
   {
     "url": "index/index.html",
-    "revision": "d0b9490ef2be279fc2ee4c0c6502dc01"
+    "revision": "a30c992d142fc285e3dccd65eaef23f4"
   },
   {
     "url": "index/javascript/javascript.html",
-    "revision": "9f3b1025271de3fb158ddaa10b828403"
+    "revision": "45717d0d57e32713b192ffc28c362436"
   },
   {
     "url": "index/nodejs/nodejs.html",
-    "revision": "9425bb9597118df4cd4a16c4527c7908"
+    "revision": "72681531ac2691421a13b9329f25d45a"
   },
   {
     "url": "index/others/cmder.html",
-    "revision": "c695a53898e02264936f9e6feb76e288"
+    "revision": "5fa0a1839a1e69e1046af943f9cb2ad8"
   },
   {
     "url": "index/others/rap2.html",
-    "revision": "c49d7b1e09696d4764dc8a51bff7aed6"
+    "revision": "e38108a96cbcc97572383838272917f1"
   },
   {
     "url": "index/react/react.html",
-    "revision": "e091bfc41cf7d88b202be4c4091d53a9"
+    "revision": "5027b60c61da3db975e3623851c8dd96"
   },
   {
     "url": "index/vue/vue.html",
-    "revision": "fb05fba98fde7a11caa9e4e7556d59df"
+    "revision": "4a281813e6aef74d2d70fbedb7e965f4"
   },
   {
     "url": "index/vx/vx.html",
-    "revision": "049dccda0c55a77464172dfa8cebf100"
+    "revision": "912b92b54251b04cf43ec0b05903cc67"
   },
   {
     "url": "kayle.jpg",
@@ -177,51 +177,51 @@ self.__precacheManifest = [
   },
   {
     "url": "zh/config/index.html",
-    "revision": "801111f69ad0f71bfbe3e6258401f0e5"
+    "revision": "0ff970c33ef0a35f8feed1cb2f66cf68"
   },
   {
     "url": "zh/default-theme-config/index.html",
-    "revision": "0c88e1d7ff4617e0380696081a5a6f46"
+    "revision": "cd8b07958c9ea7ec6f91192783c2cc66"
   },
   {
     "url": "zh/guide/assets.html",
-    "revision": "d26bc3914865ebe58385c819dcb80e80"
+    "revision": "98254bd11af332f1c9f42c8220b9e490"
   },
   {
     "url": "zh/guide/basic-config.html",
-    "revision": "6be0194744cfbdeda1ea767921da5c11"
+    "revision": "7c997aa9e5084b62850543c8fa5f373f"
   },
   {
     "url": "zh/guide/custom-themes.html",
-    "revision": "390b1790d6ddbcabc41a90802e8364df"
+    "revision": "33383446a972e9c354875177b0e50010"
   },
   {
     "url": "zh/guide/deploy.html",
-    "revision": "be9254a4493fd807aa8c3e67d60dfdb2"
+    "revision": "361ad97f99627f0a270eaffc6df205f6"
   },
   {
     "url": "zh/guide/getting-started.html",
-    "revision": "7f99fc246128afbbd81fdb3ca6fd7f1f"
+    "revision": "d4d796cd076766c17623f71a70772945"
   },
   {
     "url": "zh/guide/i18n.html",
-    "revision": "bc895eb7e64a85a14110b52b71414f6b"
+    "revision": "8f86dee28cbc27b3c8aa2d6bf74b2d08"
   },
   {
     "url": "zh/guide/index.html",
-    "revision": "e18b7b664ef9c725f335df99d286dbd6"
+    "revision": "3a9b0dfcd84f26ccd189d677d78fc399"
   },
   {
     "url": "zh/guide/markdown.html",
-    "revision": "972ab333718303802efd6acd10babe07"
+    "revision": "31e07e0cc28ce94e17a1682ae610dcd7"
   },
   {
     "url": "zh/guide/using-vue.html",
-    "revision": "de365e5a4be3f74582575ffe8a09a04e"
+    "revision": "2641a71c67e69e1a53c60a5b5017ec00"
   },
   {
     "url": "zh/index.html",
-    "revision": "088a4e4d01637fdb6759c051c6d98532"
+    "revision": "39df43f348cb14c4beac51384a2eb7e3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
